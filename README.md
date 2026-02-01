@@ -80,7 +80,7 @@ This project investigates whether a **multivariate LSTM model**, when properly o
 | Model | RMSE | MAE |
 |------|------|-----|
 | ARIMA (Baseline) | 0.797300 | 0.640950 |
-| LSTM (Optimized) | 0.528495 | 0.373589 |
+| LSTM (Optimized) | 0.544975 | 0.396959 |
 
 ### Interpretation
 - The optimized LSTM model significantly outperformed the ARIMA baseline.  
